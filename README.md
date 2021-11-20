@@ -1,2 +1,2 @@
-# ML_Projects-
+# ML_Projects
 This repository contains some of ML projects 
